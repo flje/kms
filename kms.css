@@ -41,13 +41,13 @@
   height: var(--window-title-bar);
   padding: 0 0 0 4px;
   line-height: var(--window-title-bar);
-  font-size: 0.9em;
+  font-size: 1.2em;
   color: var(--text-normal);
 }
 .wordmark__0d178.wordmarkWindows__05c46:before, .wordmark__0d178.wordmarkWindows__05c46:after {
   position: relative;
   width: auto;
-  height: 22px;
+  height: 21px;
 }
 .wordmark__0d178.wordmarkWindows__05c46:before {
   content: "wbe";
