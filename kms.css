@@ -52,3 +52,10 @@
 .wordmark__0d178.wordmarkWindows__05c46:before {
   content: "wbe";
   font-weight: 700;
+}
+.wordmark__0d178.wordmarkWindows__05c46:after {
+  content: "annuaki";
+}
+.wordmark__0d178.wordmarkWindows__05c46 svg {
+  display: none;
+}
